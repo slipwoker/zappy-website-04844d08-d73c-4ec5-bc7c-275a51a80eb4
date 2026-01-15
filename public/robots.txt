@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://ncs-bedek-bayit-pikuach-bniya.zappy5.app/sitemap.xml
