@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# N.C.S בדק בית ופיקוח בנייה — Generative Engine Optimization Map
+
+> A שירותי בדיקה ובנייה business.
 
 ---
 
@@ -38,7 +40,15 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About N.C.S בדק בית ופיקוח בנייה
+N.C.S בדק בית ופיקוח בנייה is a business in the שירותי בדיקה ובנייה industry.
+
+## Target Audience
+רוכשי בתים חדשים מקבלן ורוכשי דירות יד שנייה
+
+## Industry
+שירותי בדיקה ובנייה
+
 ---
 
 # Additional Resources
