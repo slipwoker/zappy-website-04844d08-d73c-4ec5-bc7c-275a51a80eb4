@@ -1,0 +1,57 @@
+# N.C.S בדק בית ופיקוח בנייה — Generative Engine Optimization Map
+
+> A שירותי בדיקה ובנייה business.
+
+---
+
+## Pages
+
+### דף הבית
+https://n-c-s-04844d08.zappy5.app
+בדק בית מקצועי לפני קניה. שירותי בדיקה ופיקוח בנייה מומלצים לרוכשי דירות חדשות ויד שנייה. צרו קשר עוד היום!
+
+### שירותים
+https://n-c-s-04844d08.zappy5.app/services
+שירותי בדק בית מקיפים לדירות חדשות ויד שנייה. בדיקות מקצועיות, פיקוח בנייה ודוחות מפורטים. התקשרו עוד היום!
+
+### אודות
+https://n-c-s-04844d08.zappy5.app/about
+הכירו את N.C.S - מומחים בבדק בית לפני קניה ופיקוח בנייה. ניסיון רב, מקצועיות ושירות אמין לרוכשי דירות.
+
+### צור קשר
+https://n-c-s-04844d08.zappy5.app/contact
+צרו קשר עם N.C.S לקביעת בדק בית מקצועי. זמינים לשירותכם לכל שאלה או בקשה. מלאו טופס או התקשרו עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://n-c-s-04844d08.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://n-c-s-04844d08.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://n-c-s-04844d08.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About N.C.S בדק בית ופיקוח בנייה
+N.C.S בדק בית ופיקוח בנייה is a business in the שירותי בדיקה ובנייה industry.
+
+## Target Audience
+רוכשי בתים חדשים מקבלן ורוכשי דירות יד שנייה
+
+## Industry
+שירותי בדיקה ובנייה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://n-c-s-04844d08.zappy5.app/sitemap.xml
+- **Robots.txt**: https://n-c-s-04844d08.zappy5.app/robots.txt
